@@ -1,2 +1,2 @@
 #!/bin/bash
-:echo expand('%:p') \n
+./0-current_working_directory \n
